@@ -52,9 +52,9 @@ This system allows users to:
 ETA Squad
 
 Team Members:
-Sai Charishma N
-Roopa Ravi
-Ramyashree G
+Sai Charishma N,
+Roopa Ravi,
+Ramyashree G,
 Basmin Shaik
 
 📚 References
