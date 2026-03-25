@@ -47,8 +47,14 @@ This system allows users to:
 
 
 👨‍💻 Team
-Your Name
-Team Members
+ETA Squad
+
+Team Members:
+Sai Charishma N
+Roopa Ravi
+Ramyashree G
+Basmin Shaik
+
 📚 References
 Leaflet.js Documentation
 OpenStreetMap
