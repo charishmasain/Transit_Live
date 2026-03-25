@@ -5,6 +5,7 @@
 A smart web-based application that enables students and faculty to track college buses in real time, view estimated arrival times (ETA), and plan their commute efficiently.
 
 🚀 Features
+
 🗺️ Live bus tracking on interactive map (simulated)
 ⏱️ Real-time ETA updates
 🔔 Smart alerts for bus arrival
@@ -57,6 +58,7 @@ Ramyashree G
 Basmin Shaik
 
 📚 References
+
 Leaflet.js Documentation
 OpenStreetMap
 Smart Transport Research
