@@ -6,7 +6,6 @@ A smart web-based application that enables students and faculty to track college
 
 🚀 Features
 🗺️ Live bus tracking on interactive map (simulated)
-
 ⏱️ Real-time ETA updates
 🔔 Smart alerts for bus arrival
 🧑‍🎓👩‍🏫 Supports both students and faculty
