@@ -40,8 +40,6 @@ This system allows users to:
 🧑‍💼 Admin dashboard
 🎥 Demo
 
-👉 Add your video link here
-
 
 📸 Screenshots
 
